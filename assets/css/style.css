@@ -50,7 +50,7 @@ p {
     margin-left: 25px;
 }
 
-.hero {
+.article-banner-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -60,7 +60,7 @@ p {
 }
 
 
-.article-content {
+.article-our-services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
